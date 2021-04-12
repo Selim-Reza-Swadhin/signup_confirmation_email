@@ -1,0 +1,15 @@
+#header {
+    font-size: 18px;
+}
+
+.panel-heading {
+    padding: 20px;
+}
+
+.c-pencil {
+    font-size: 20px;
+}
+
+.panel {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+}
